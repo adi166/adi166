@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://www.linkedin.com/in/aditya-sunil-5559b7335/"> Home Lab </a>
+- <a href="https://github.com/adi166/HOME-LAB/blob/main/README.md"> Home Lab </a>
 - Network Security Analysis
 - SOC Automation Project
 - 
