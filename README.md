@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Phishing Analysis                             |       
 
 ## Tools
-- Network: tcpdump, Wireshark
+- Network Analysis: tcpdump, Wireshark
     
 - Endpoint: Sysmon
 
@@ -32,5 +32,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/adi166/HOME-LAB/blob/main/README.md"> Home Lab </a>
-- SOC Automation Project
+- <a href="https://github.com/adi166/HOME-LAB/blob/main/README.md"> Home Lab 
+- <a href="https://github.com/adi166/AD-Lab"> Active Directory 
